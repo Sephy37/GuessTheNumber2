@@ -239,3 +239,7 @@ hideMessage()
 function hello(){
 
 }
+
+function hello2(){
+    
+}
