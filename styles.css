@@ -1,0 +1,106 @@
+body{
+    background-color: yellow;
+}
+
+#heading{
+    color:red;
+    text-align: center;
+    border: 3px solid black;
+}
+
+#input-box{
+    display: flex;
+    align-items: center;
+    flex-direction: row; /* Change to row for horizontal alignment */
+    justify-content: center; /* Center horizontally */
+    margin-bottom: 10px;
+}
+
+#btn1,
+#btn2,
+#btn3,
+#counter{
+    margin-top: 2px;
+    margin-left:1px;
+    margin-right:10px;
+}
+
+#btn1,
+#btn2,
+#btn3{
+    background-color: red;
+}
+
+#counter{
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left:5px;
+}
+
+#guessbox{
+    margin-right: 10px;
+}
+
+#heading2{
+    text-align: center;
+    color:blue
+}
+
+#randNum2{
+    text-align: center;
+    color:red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#randNum{
+    margin-left:5px;
+ 
+}
+
+#messages{
+    text-align: center;
+    color:red;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+#message{
+    margin-left:5px;
+}
+
+#guessCounter{
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:red;
+}
+
+#border{
+    width:300px;
+    height: 300px;
+    border:10px solid black;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:0 auto;
+    margin-top: 50px;
+}
+
+#borders{
+    color:red;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+
