@@ -234,3 +234,8 @@ hideMessage()
         hideMessage()
     },3000)
 }*/
+
+
+function hello(){
+
+}
